@@ -73,10 +73,10 @@ h1{
     </select>
 <input type="submit">
 </form>
-<button type="button">Buy</button>
+<button type="button">Buy this product</button>
 </br>
 </br>
-<input type="button" value="Back!" onclick="history.back()">
+<input type="button" value="Back" onclick="history.back()">
 </center>
 </body>
 </html>
