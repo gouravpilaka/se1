@@ -74,8 +74,8 @@ h1{
 <input type="submit">
 </form>
 <button type="button">Buy</button>
-
-<br>
+</br>
+</br>
 <input type="button" value="Back!" onclick="history.back()">
 </center>
 </body>
