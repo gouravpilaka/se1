@@ -14,7 +14,7 @@ if(!empty($_GET['name']))
 	}	
 	else
 	{
-		echo "<html><center><h2>$name's cost is: $price $</h2></center></html>";
+		echo "<html><center><h2> $price $</h2></center></html>";
 		
 	}	
 }
@@ -51,20 +51,7 @@ h1{
 </style>
 <body>
 <center><br>
-<form>
-
-<label for="cars">Choose a product:</label>
-  <select id="cars" name="name">
-    <option value="rub">rub</option>
-    <option value="clove">clove</option>
-    <option value="chilli">chilli</option>
-    </select>
-<input type="submit">
-</form>
-<button type="button">Buy this product</button>
-</br>
-</br>
-<input type="button" value="Back" onclick="history.back()">
+ton" value="Back" onclick="history.back()">
 </center>
 </body>
 </html>
