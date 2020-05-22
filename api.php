@@ -34,7 +34,7 @@ function response($data)
 
 
 <center><br>
-ton" value="Back" onclick="history.back()">
+
 </center>
 </body>
 </html>
