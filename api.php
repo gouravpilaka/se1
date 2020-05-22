@@ -15,19 +15,7 @@ if(!empty($_GET['name']))
 	else
 	{
 		echo "<html><center><h2>$name's cost is: $price $</h2></center></html>";
-		if($name=="chilli")
-		{
-			echo '<html><center><IMG SRC="13.jpg" height="342" width="445" ></center></html>';
-		}
-		else if($name=="rub")
-		{
-			echo '<html ><center><IMG SRC="17.jpg"  height="442" width="345" ></center></html>';
-		}
-		else 
-		{
-			echo '<html ><center><IMG SRC="14.jpg"  height="342" width="445" ></center></html>';
-		}
-
+		
 	}	
 }
 else
